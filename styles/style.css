@@ -42,6 +42,7 @@
   line-height: 24.3px;
   display: flex;
   flex-direction: column;
+  margin-left: 50px;
 }
 a {
   text-underline-offset: 4px;
@@ -257,7 +258,7 @@ a {
   display: flex;
   height: 388px;
   flex-direction: column;
-  padding-top: 112px;
+  padding-top: 100px;
   gap: 25px;
   /* Хотел поставить gap 100px тут, но отлетает последний блок текста, не нашел как сделать лучше
   объявил новый див и задал там отступ отдельно. */
@@ -293,7 +294,4 @@ a {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-}
-.menu_right {
-  margin-left: 50px;
 }
