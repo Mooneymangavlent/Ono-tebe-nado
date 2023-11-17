@@ -267,7 +267,6 @@ a {
   gap: 100px;
 }
 
-
 .footer {
   max-width: 1440px;
   display: flex;
@@ -278,13 +277,13 @@ a {
   margin-right: auto;
   padding-bottom: 90px;
 }
-.menu_right{
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 24.3px; 
+.menu_right {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24.3px;
 }
-.footer_logo{
+.footer_logo {
   width: 48px;
   height: 48px;
 }
@@ -303,5 +302,4 @@ line-height: 24.3px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  
 }
