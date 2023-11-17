@@ -277,11 +277,13 @@ a {
   margin-right: auto;
   padding-bottom: 90px;
 }
-.menu_right {
+.footer-right {
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: 24.3px;
+  list-style: none;
+  padding-left: 50px;
 }
 .footer_logo {
   width: 48px;
