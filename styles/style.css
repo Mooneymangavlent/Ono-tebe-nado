@@ -220,7 +220,7 @@ a {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  padding-left: 40px;
+  margin-left: 40px;
 }
 .about {
   max-width: 1340px;
